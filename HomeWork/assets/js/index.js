@@ -1,3 +1,5 @@
+"use strict";
+
 //1) Verilmiş n - ədədinin 3-ə və 7-ə bölünüb-bölünməməsini tapan bir function yazin.
 
 function numDivision(number) {
